@@ -1,0 +1,9 @@
+Live Cost = SUM ( 'BOM Lines'[LineCost] )
+
+Saved Cost = SUM ( 'BOM Lines'[SavedLineCost] )
+
+Cost Difference = [Live Cost] - [Saved Cost]
+
+// Planned what-if pricing (GP% from a numeric-range parameter)
+Suggested Price =
+DIVIDE ( [Live Cost], 1 - SELECTEDVALUE ( 'Target GP'[Target GP], 0.65 ) )

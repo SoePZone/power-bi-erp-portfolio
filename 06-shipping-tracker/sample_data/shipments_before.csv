@@ -1,0 +1,9 @@
+PO#,Supplier,NOTE,ETD/ETS,ETA to Port,Shipment Type,Ship/Con,Progess
+PO100101,SUPPLIER A,Degreaser concentrate,\n12/9,\n14/10,FCL,,"Forward documents to forwarder, waiting EDO"
+PO100102,Supplier B,Passivator 101,Sep 14th,10/08/2026,FCL,,"forward documents to forwarder, waiting EDO"
+PO100103,supplier c,Sealer 102,Mid Nov,1st December,FCL,,Order Confirmed
+PO100104,SUPPLIER C,Etchant 101,28/10,11-Apr,AIRFREIGHT,,Delayed beacuse of DG packaging
+PO100105,Supplier D,Brightener 101,19/08/26,13/10/26,LCL - DIRECT NZ,,Delivered
+PO100106,Supplier A,Cleaner 102,End of Nov,,LCL - Melbourne,18 day transit,December/Jan
+PO100107,Supplier B,Inhibitor 101,,,FCL,,WAITING OC
+PO100106,Supplier A,Cleaner 102,,,LCL - MELBOURNE,,

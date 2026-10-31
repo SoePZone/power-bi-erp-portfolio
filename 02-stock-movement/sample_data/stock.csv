@@ -1,0 +1,80 @@
+Code,Description,ItemCategory,ItemGroup,WhseCode,QtyOnHand,QtyOnPO,ReservedQty,QtyAfterReservedPOQty,3 Month Consumption,6 Month Consumption,Avg Monthly Sales
+DEG101L20,Degreaser 101 20L,Metal Pretreatment,Proprietary Chemical,001,817,0,100,717,1071,2290,381.67
+DEG101L20,Degreaser 101 20L,Metal Pretreatment,Proprietary Chemical,004,127,0,12,115,1065,1972,328.67
+DEG101L200,Degreaser 101 200L,Metal Pretreatment,Proprietary Chemical,008,1230,0,26,1204,254,664,110.67
+DEG101L1000,Degreaser 101 1000L IBC,Metal Pretreatment,Proprietary Chemical,004,744,0,157,587,835,2197,366.17
+DEG102L20,Degreaser 102 20L,Metal Pretreatment,Proprietary Chemical,004,516,1000,88,1428,608,1541,256.83
+DEG102L200,Degreaser 102 200L,Metal Pretreatment,Proprietary Chemical,008,999,400,119,1280,193,503,83.83
+DEG102L1000,Degreaser 102 1000L IBC,Metal Pretreatment,Proprietary Chemical,005,701,400,67,1034,138,351,58.5
+PAS101L20,Passivator 101 20L,Plating,Supplier A Products,004,1081,0,185,896,38,94,15.67
+PAS101L20,Passivator 101 20L,Plating,Supplier A Products,005,1081,0,152,929,1388,2224,370.67
+PAS101L200,Passivator 101 200L,Plating,Supplier A Products,005,728,1000,57,1671,934,1502,250.33
+PAS101L200,Passivator 101 200L,Plating,Supplier A Products,008,675,0,162,513,1294,2218,369.67
+PAS101L1000,Passivator 101 1000L IBC,Plating,Supplier A Products,004,464,1000,25,1439,938,1641,273.5
+PAS101L1000,Passivator 101 1000L IBC,Plating,Supplier A Products,001,59,200,0,259,921,2018,336.33
+PAS102L20,Passivator 102 20L,Plating,Supplier A Products,005,705,200,114,791,442,793,132.17
+PAS102L200,Passivator 102 200L,Plating,Supplier A Products,001,962,200,50,1112,343,903,150.5
+PAS102L1000,Passivator 102 1000L IBC,Plating,Supplier A Products,008,1337,0,176,1161,3,7,1.17
+ETC101L20,Etchant 101 20L,Paint Removal,Supplier B Products,001,365,200,55,510,402,816,136.0
+ETC101L20,Etchant 101 20L,Paint Removal,Supplier B Products,004,1478,400,202,1676,209,355,59.17
+ETC101L200,Etchant 101 200L,Paint Removal,Supplier B Products,001,260,0,3,257,260,650,108.33
+ETC101L1000,Etchant 101 1000L IBC,Paint Removal,Supplier B Products,008,1220,200,242,1178,319,598,99.67
+ETC101L1000,Etchant 101 1000L IBC,Paint Removal,Supplier B Products,005,268,0,2,266,328,638,106.33
+ETC102L20,Etchant 102 20L,Paint Removal,Supplier B Products,001,398,0,27,371,273,570,95.0
+ETC102L20,Etchant 102 20L,Paint Removal,Supplier B Products,005,1026,1000,123,1903,426,1031,171.83
+ETC102L200,Etchant 102 200L,Paint Removal,Supplier B Products,005,268,200,7,461,1060,2229,371.5
+ETC102L1000,Etchant 102 1000L IBC,Paint Removal,Supplier B Products,008,310,1000,67,1243,799,2054,342.33
+SEA101L20,Sealer 101 20L,Waste Treatment,Proprietary Chemical,008,306,0,22,284,399,750,125.0
+SEA101L200,Sealer 101 200L,Waste Treatment,Proprietary Chemical,001,1397,1000,265,2132,839,2279,379.83
+SEA101L1000,Sealer 101 1000L IBC,Waste Treatment,Proprietary Chemical,008,391,0,35,356,842,2294,382.33
+SEA101L1000,Sealer 101 1000L IBC,Waste Treatment,Proprietary Chemical,001,1150,0,14,1136,200,400,66.67
+SEA102L20,Sealer 102 20L,Waste Treatment,Proprietary Chemical,005,408,200,88,520,1100,2070,345.0
+SEA102L200,Sealer 102 200L,Waste Treatment,Proprietary Chemical,008,1431,200,267,1364,1314,2079,346.5
+SEA102L1000,Sealer 102 1000L IBC,Waste Treatment,Proprietary Chemical,004,803,200,113,890,266,561,93.5
+SEA102L1000,Sealer 102 1000L IBC,Waste Treatment,Proprietary Chemical,008,877,0,18,859,163,297,49.5
+CLN101L20,Cleaner 101 20L,Anodising,Supplier A Products,005,1317,0,187,1130,399,632,105.33
+CLN101L20,Cleaner 101 20L,Anodising,Supplier A Products,001,957,0,56,901,636,1036,172.67
+CLN101L200,Cleaner 101 200L,Anodising,Supplier A Products,008,458,400,20,838,430,666,111.0
+CLN101L1000,Cleaner 101 1000L IBC,Anodising,Supplier A Products,008,652,200,23,829,705,1725,287.5
+CLN101L1000,Cleaner 101 1000L IBC,Anodising,Supplier A Products,004,939,0,112,827,35,79,13.17
+CLN102L20,Cleaner 102 20L,Anodising,Supplier A Products,005,1049,0,32,1017,1138,2119,353.17
+CLN102L200,Cleaner 102 200L,Anodising,Supplier A Products,001,81,200,5,276,147,344,57.33
+CLN102L1000,Cleaner 102 1000L IBC,Anodising,Supplier A Products,008,1098,1000,263,1835,499,1059,176.5
+INH101L20,Inhibitor 101 20L,Industrial,Supplier B Products,005,1409,400,93,1716,158,366,61.0
+INH101L200,Inhibitor 101 200L,Industrial,Supplier B Products,005,533,1000,21,1512,36,68,11.33
+INH101L1000,Inhibitor 101 1000L IBC,Industrial,Supplier B Products,001,929,200,2,1127,659,1083,180.5
+INH102L20,Inhibitor 102 20L,Industrial,Supplier B Products,008,1453,0,122,1331,192,529,88.17
+INH102L20,Inhibitor 102 20L,Industrial,Supplier B Products,004,370,200,25,545,283,661,110.17
+INH102L200,Inhibitor 102 200L,Industrial,Supplier B Products,005,1024,200,91,1133,368,843,140.5
+INH102L200,Inhibitor 102 200L,Industrial,Supplier B Products,008,512,0,9,503,839,1421,236.83
+INH102L1000,Inhibitor 102 1000L IBC,Industrial,Supplier B Products,004,915,400,27,1288,1037,2106,351.0
+BRT101L20,Brightener 101 20L,Metal Pretreatment,Proprietary Chemical,008,630,0,55,575,1032,1610,268.33
+BRT101L20,Brightener 101 20L,Metal Pretreatment,Proprietary Chemical,005,1447,0,325,1122,574,1403,233.83
+BRT101L200,Brightener 101 200L,Metal Pretreatment,Proprietary Chemical,005,29,200,1,228,133,222,37.0
+BRT101L1000,Brightener 101 1000L IBC,Metal Pretreatment,Proprietary Chemical,004,780,200,129,851,84,226,37.67
+BRT102L20,Brightener 102 20L,Metal Pretreatment,Proprietary Chemical,004,379,200,20,559,436,1200,200.0
+BRT102L20,Brightener 102 20L,Metal Pretreatment,Proprietary Chemical,005,745,1000,84,1661,641,1826,304.33
+BRT102L200,Brightener 102 200L,Metal Pretreatment,Proprietary Chemical,004,633,200,55,778,90,141,23.5
+BRT102L1000,Brightener 102 1000L IBC,Metal Pretreatment,Proprietary Chemical,001,972,1000,71,1901,637,1373,228.83
+STR101L20,Paint Stripper 101 20L,Plating,Supplier A Products,004,186,0,16,170,1204,2067,344.5
+STR101L20,Paint Stripper 101 20L,Plating,Supplier A Products,001,85,0,12,73,276,589,98.17
+STR101L200,Paint Stripper 101 200L,Plating,Supplier A Products,005,1083,1000,79,2004,357,953,158.83
+STR101L1000,Paint Stripper 101 1000L IBC,Plating,Supplier A Products,005,1483,0,316,1167,799,2024,337.33
+STR102L20,Paint Stripper 102 20L,Plating,Supplier A Products,008,1072,1000,258,1814,811,2070,345.0
+STR102L200,Paint Stripper 102 200L,Plating,Supplier A Products,004,272,0,46,226,125,348,58.0
+STR102L1000,Paint Stripper 102 1000L IBC,Plating,Supplier A Products,008,38,0,8,30,835,2287,381.17
+NEU101L20,Neutraliser 101 20L,Paint Removal,Supplier B Products,005,143,1000,32,1111,6,13,2.17
+NEU101L200,Neutraliser 101 200L,Paint Removal,Supplier B Products,001,152,0,16,136,825,1940,323.33
+NEU101L1000,Neutraliser 101 1000L IBC,Paint Removal,Supplier B Products,004,783,400,19,1164,939,1885,314.17
+NEU101L1000,Neutraliser 101 1000L IBC,Paint Removal,Supplier B Products,001,1263,0,101,1162,682,1176,196.0
+NEU102L20,Neutraliser 102 20L,Paint Removal,Supplier B Products,004,1419,1000,155,2264,567,1040,173.33
+NEU102L20,Neutraliser 102 20L,Paint Removal,Supplier B Products,008,987,400,15,1372,906,2325,387.5
+NEU102L200,Neutraliser 102 200L,Paint Removal,Supplier B Products,001,595,200,132,663,492,891,148.5
+NEU102L1000,Neutraliser 102 1000L IBC,Paint Removal,Supplier B Products,008,1124,200,102,1222,1108,1910,318.33
+LUB101L20,Drawing Lubricant 101 20L,Waste Treatment,Proprietary Chemical,008,156,400,32,524,31,71,11.83
+LUB101L200,Drawing Lubricant 101 200L,Waste Treatment,Proprietary Chemical,008,431,1000,9,1422,536,859,143.17
+LUB101L1000,Drawing Lubricant 101 1000L IBC,Waste Treatment,Proprietary Chemical,004,736,1000,33,1703,919,2146,357.67
+LUB102L20,Drawing Lubricant 102 20L,Waste Treatment,Proprietary Chemical,005,995,0,100,895,627,1495,249.17
+LUB102L20,Drawing Lubricant 102 20L,Waste Treatment,Proprietary Chemical,001,1006,400,174,1232,228,651,108.5
+LUB102L200,Drawing Lubricant 102 200L,Waste Treatment,Proprietary Chemical,005,770,0,80,690,273,576,96.0
+LUB102L1000,Drawing Lubricant 102 1000L IBC,Waste Treatment,Proprietary Chemical,001,815,0,30,785,764,1329,221.5

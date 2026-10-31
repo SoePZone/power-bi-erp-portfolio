@@ -1,0 +1,25 @@
+// Months of stock cover
+Stock Coverage (Months) =
+DIVIDE (
+    SUM ( Stock[QtyAfterReservedPOQty] ),
+    DIVIDE ( SUM ( Stock[6 Month Consumption] ), 6 )
+)
+
+// Quantity to order to reach the target months picked in a slicer.
+// SUMX per item makes the table total the sum of the rows (without it the total showed 0).
+Order Qty (Selected Target) =
+SUMX (
+    VALUES ( Stock[Code] ),
+    VAR SelectedTarget = SELECTEDVALUE ( 'Target Months'[Target Months], 6 )
+    VAR Cover = [Stock Coverage (Months)]
+    VAR Shortfall = SelectedTarget - Cover
+    RETURN
+        IF ( ISBLANK ( Cover ) || Shortfall <= 0, 0,
+             Shortfall * CALCULATE ( SUM ( Stock[Avg Monthly Sales] ) ) )
+)
+
+// Label for a card. ALL() keeps it visible whatever the slicers select.
+Period Label =
+VAR StartDate = CALCULATE ( MIN ( Stock[PeriodStart] ), ALL ( Stock ) )
+VAR EndDate   = CALCULATE ( MAX ( Stock[PeriodEnd] ),   ALL ( Stock ) )
+RETURN "Sales period: " & FORMAT ( StartDate, "d mmm yyyy" ) & " - " & FORMAT ( EndDate, "d mmm yyyy" )

@@ -1,0 +1,421 @@
+ProductCode,ProductDescription,ItemGroup,ItemCategory,LineNumber,ComponentCode,ComponentDescription,QtyPerUnit,ComponentUnitCost,LineCost,SavedLineCost,ComponentType
+DEG101L20,Degreaser 101 20L,Proprietary Chemical,Metal Pretreatment,1,RM-ACID-01,Acid concentrate,0.18,1.85,0.333,0.373,Bought / cost item
+DEG101L20,Degreaser 101 20L,Proprietary Chemical,Metal Pretreatment,2,RM-SURF-03,Surfactant blend,0.079,4.2,0.3318,0.2986,Bought / cost item
+DEG101L20,Degreaser 101 20L,Proprietary Chemical,Metal Pretreatment,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.0,Bought / cost item
+DEG101L20,Degreaser 101 20L,Proprietary Chemical,Metal Pretreatment,4,RM-WATER,Water,0.427,0.0,0.0,0.0,Bought / cost item
+DEG101L20,Degreaser 101 20L,Proprietary Chemical,Metal Pretreatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.336,Bought / cost item
+DEG101L20,Degreaser 101 20L,Proprietary Chemical,Metal Pretreatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+DEG101L20,Degreaser 101 20L,Proprietary Chemical,Metal Pretreatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.0224,Bought / cost item
+DEG101L200,Degreaser 101 200L,Proprietary Chemical,Metal Pretreatment,1,RM-ACID-01,Acid concentrate,0.426,1.85,0.7881,0.8827,Bought / cost item
+DEG101L200,Degreaser 101 200L,Proprietary Chemical,Metal Pretreatment,2,RM-SOLV-04,Solvent,0.336,2.35,0.7896,0.7896,Bought / cost item
+DEG101L200,Degreaser 101 200L,Proprietary Chemical,Metal Pretreatment,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.14,Bought / cost item
+DEG101L200,Degreaser 101 200L,Proprietary Chemical,Metal Pretreatment,4,RM-WATER,Water,0.74,0.0,0.0,0.0,Bought / cost item
+DEG101L200,Degreaser 101 200L,Proprietary Chemical,Metal Pretreatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.0,Bought / cost item
+DEG101L200,Degreaser 101 200L,Proprietary Chemical,Metal Pretreatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,1.0819,Bought / cost item
+DEG101L200,Degreaser 101 200L,Proprietary Chemical,Metal Pretreatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+DEG101L1000,Degreaser 101 1000L IBC,Proprietary Chemical,Metal Pretreatment,1,RM-SURF-03,Surfactant blend,0.448,4.2,1.8816,1.6934,Bought / cost item
+DEG101L1000,Degreaser 101 1000L IBC,Proprietary Chemical,Metal Pretreatment,2,RM-SALT-02,Salt flake,0.461,0.92,0.4241,0.0,Bought / cost item
+DEG101L1000,Degreaser 101 1000L IBC,Proprietary Chemical,Metal Pretreatment,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.0,Bought / cost item
+DEG101L1000,Degreaser 101 1000L IBC,Proprietary Chemical,Metal Pretreatment,4,RM-WATER,Water,0.471,0.0,0.0,0.0,Bought / cost item
+DEG101L1000,Degreaser 101 1000L IBC,Proprietary Chemical,Metal Pretreatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+DEG101L1000,Degreaser 101 1000L IBC,Proprietary Chemical,Metal Pretreatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.8694,Bought / cost item
+DEG101L1000,Degreaser 101 1000L IBC,Proprietary Chemical,Metal Pretreatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.018,Bought / cost item
+DEG102L20,Degreaser 102 20L,Proprietary Chemical,Metal Pretreatment,1,RM-SALT-02,Salt flake,0.441,0.92,0.4057,0.3651,Bought / cost item
+DEG102L20,Degreaser 102 20L,Proprietary Chemical,Metal Pretreatment,2,RM-SURF-03,Surfactant blend,0.072,4.2,0.3024,0.0,Bought / cost item
+DEG102L20,Degreaser 102 20L,Proprietary Chemical,Metal Pretreatment,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.155,Bought / cost item
+DEG102L20,Degreaser 102 20L,Proprietary Chemical,Metal Pretreatment,4,RM-WATER,Water,0.46,0.0,0.0,0.0,Bought / cost item
+DEG102L20,Degreaser 102 20L,Proprietary Chemical,Metal Pretreatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.336,Bought / cost item
+DEG102L20,Degreaser 102 20L,Proprietary Chemical,Metal Pretreatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,1.0819,Bought / cost item
+DEG102L20,Degreaser 102 20L,Proprietary Chemical,Metal Pretreatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.0224,Bought / cost item
+DEG102L200,Degreaser 102 200L,Proprietary Chemical,Metal Pretreatment,1,RM-SURF-03,Surfactant blend,0.382,4.2,1.6044,1.7969,Bought / cost item
+DEG102L200,Degreaser 102 200L,Proprietary Chemical,Metal Pretreatment,2,RM-SOLV-04,Solvent,0.233,2.35,0.5476,0.5476,Bought / cost item
+DEG102L200,Degreaser 102 200L,Proprietary Chemical,Metal Pretreatment,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.1568,Bought / cost item
+DEG102L200,Degreaser 102 200L,Proprietary Chemical,Metal Pretreatment,4,RM-WATER,Water,0.569,0.0,0.0,0.0,Bought / cost item
+DEG102L200,Degreaser 102 200L,Proprietary Chemical,Metal Pretreatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+DEG102L200,Degreaser 102 200L,Proprietary Chemical,Metal Pretreatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+DEG102L200,Degreaser 102 200L,Proprietary Chemical,Metal Pretreatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+DEG102L1000,Degreaser 102 1000L IBC,Proprietary Chemical,Metal Pretreatment,1,RM-ACID-01,Acid concentrate,0.275,1.85,0.5088,0.4579,Bought / cost item
+DEG102L1000,Degreaser 102 1000L IBC,Proprietary Chemical,Metal Pretreatment,2,RM-SOLV-04,Solvent,0.298,2.35,0.7003,0.6303,Bought / cost item
+DEG102L1000,Degreaser 102 1000L IBC,Proprietary Chemical,Metal Pretreatment,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.1736,Bought / cost item
+DEG102L1000,Degreaser 102 1000L IBC,Proprietary Chemical,Metal Pretreatment,4,RM-WATER,Water,0.749,0.0,0.0,0.0,Bought / cost item
+DEG102L1000,Degreaser 102 1000L IBC,Proprietary Chemical,Metal Pretreatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.27,Bought / cost item
+DEG102L1000,Degreaser 102 1000L IBC,Proprietary Chemical,Metal Pretreatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+DEG102L1000,Degreaser 102 1000L IBC,Proprietary Chemical,Metal Pretreatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.0,Bought / cost item
+PAS101L20,Passivator 101 20L,Supplier A Products,Plating,1,RM-SALT-02,Salt flake,0.091,0.92,0.0837,0.0938,Bought / cost item
+PAS101L20,Passivator 101 20L,Supplier A Products,Plating,2,RM-ACID-01,Acid concentrate,0.3,1.85,0.555,0.6216,Bought / cost item
+PAS101L20,Passivator 101 20L,Supplier A Products,Plating,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.155,Bought / cost item
+PAS101L20,Passivator 101 20L,Supplier A Products,Plating,4,RM-WATER,Water,0.529,0.0,0.0,0.0,Bought / cost item
+PAS101L20,Passivator 101 20L,Supplier A Products,Plating,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+PAS101L20,Passivator 101 20L,Supplier A Products,Plating,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+PAS101L20,Passivator 101 20L,Supplier A Products,Plating,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.018,Bought / cost item
+PAS101L200,Passivator 101 200L,Supplier A Products,Plating,1,RM-SOLV-04,Solvent,0.386,2.35,0.9071,0.9071,Bought / cost item
+PAS101L200,Passivator 101 200L,Supplier A Products,Plating,2,RM-SALT-02,Salt flake,0.22,0.92,0.2024,0.2267,Bought / cost item
+PAS101L200,Passivator 101 200L,Supplier A Products,Plating,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.14,Bought / cost item
+PAS101L200,Passivator 101 200L,Supplier A Products,Plating,4,RM-WATER,Water,0.574,0.0,0.0,0.0,Bought / cost item
+PAS101L200,Passivator 101 200L,Supplier A Products,Plating,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.336,Bought / cost item
+PAS101L200,Passivator 101 200L,Supplier A Products,Plating,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+PAS101L200,Passivator 101 200L,Supplier A Products,Plating,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.0,Bought / cost item
+PAS101L1000,Passivator 101 1000L IBC,Supplier A Products,Plating,1,RM-SALT-02,Salt flake,0.172,0.92,0.1582,0.1582,Bought / cost item
+PAS101L1000,Passivator 101 1000L IBC,Supplier A Products,Plating,2,RM-ACID-01,Acid concentrate,0.223,1.85,0.4126,0.3713,Bought / cost item
+PAS101L1000,Passivator 101 1000L IBC,Supplier A Products,Plating,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.1395,Bought / cost item
+PAS101L1000,Passivator 101 1000L IBC,Supplier A Products,Plating,4,RM-WATER,Water,0.734,0.0,0.0,0.0,Bought / cost item
+PAS101L1000,Passivator 101 1000L IBC,Supplier A Products,Plating,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+PAS101L1000,Passivator 101 1000L IBC,Supplier A Products,Plating,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+PAS101L1000,Passivator 101 1000L IBC,Supplier A Products,Plating,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.018,Bought / cost item
+PAS102L20,Passivator 102 20L,Supplier A Products,Plating,1,RM-SOLV-04,Solvent,0.27,2.35,0.6345,0.6345,Bought / cost item
+PAS102L20,Passivator 102 20L,Supplier A Products,Plating,2,RM-SURF-03,Surfactant blend,0.226,4.2,0.9492,0.0,Bought / cost item
+PAS102L20,Passivator 102 20L,Supplier A Products,Plating,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.1395,Bought / cost item
+PAS102L20,Passivator 102 20L,Supplier A Products,Plating,4,RM-WATER,Water,0.74,0.0,0.0,0.0,Bought / cost item
+PAS102L20,Passivator 102 20L,Supplier A Products,Plating,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+PAS102L20,Passivator 102 20L,Supplier A Products,Plating,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+PAS102L20,Passivator 102 20L,Supplier A Products,Plating,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+PAS102L200,Passivator 102 200L,Supplier A Products,Plating,1,RM-SALT-02,Salt flake,0.487,0.92,0.448,0.448,Bought / cost item
+PAS102L200,Passivator 102 200L,Supplier A Products,Plating,2,RM-SURF-03,Surfactant blend,0.474,4.2,1.9908,1.7917,Bought / cost item
+PAS102L200,Passivator 102 200L,Supplier A Products,Plating,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.14,Bought / cost item
+PAS102L200,Passivator 102 200L,Supplier A Products,Plating,4,RM-WATER,Water,0.593,0.0,0.0,0.0,Bought / cost item
+PAS102L200,Passivator 102 200L,Supplier A Products,Plating,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+PAS102L200,Passivator 102 200L,Supplier A Products,Plating,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+PAS102L200,Passivator 102 200L,Supplier A Products,Plating,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+PAS102L1000,Passivator 102 1000L IBC,Supplier A Products,Plating,1,RM-ACID-01,Acid concentrate,0.372,1.85,0.6882,0.6882,Bought / cost item
+PAS102L1000,Passivator 102 1000L IBC,Supplier A Products,Plating,2,RM-SURF-03,Surfactant blend,0.332,4.2,1.3944,0.0,Bought / cost item
+PAS102L1000,Passivator 102 1000L IBC,Supplier A Products,Plating,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.1395,Bought / cost item
+PAS102L1000,Passivator 102 1000L IBC,Supplier A Products,Plating,4,RM-WATER,Water,0.645,0.0,0.0,0.0,Bought / cost item
+PAS102L1000,Passivator 102 1000L IBC,Supplier A Products,Plating,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+PAS102L1000,Passivator 102 1000L IBC,Supplier A Products,Plating,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+PAS102L1000,Passivator 102 1000L IBC,Supplier A Products,Plating,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.0224,Bought / cost item
+ETC101L20,Etchant 101 20L,Supplier B Products,Paint Removal,1,RM-SALT-02,Salt flake,0.167,0.92,0.1536,0.0,Bought / cost item
+ETC101L20,Etchant 101 20L,Supplier B Products,Paint Removal,2,RM-SOLV-04,Solvent,0.051,2.35,0.1198,0.0,Bought / cost item
+ETC101L20,Etchant 101 20L,Supplier B Products,Paint Removal,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.1736,Bought / cost item
+ETC101L20,Etchant 101 20L,Supplier B Products,Paint Removal,4,RM-WATER,Water,0.749,0.0,0.0,0.0,Bought / cost item
+ETC101L20,Etchant 101 20L,Supplier B Products,Paint Removal,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.336,Bought / cost item
+ETC101L20,Etchant 101 20L,Supplier B Products,Paint Removal,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+ETC101L20,Etchant 101 20L,Supplier B Products,Paint Removal,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.018,Bought / cost item
+ETC101L200,Etchant 101 200L,Supplier B Products,Paint Removal,1,RM-SALT-02,Salt flake,0.161,0.92,0.1481,0.1333,Bought / cost item
+ETC101L200,Etchant 101 200L,Supplier B Products,Paint Removal,2,RM-SURF-03,Surfactant blend,0.367,4.2,1.5414,1.7264,Bought / cost item
+ETC101L200,Etchant 101 200L,Supplier B Products,Paint Removal,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.14,Bought / cost item
+ETC101L200,Etchant 101 200L,Supplier B Products,Paint Removal,4,RM-WATER,Water,0.408,0.0,0.0,0.0,Bought / cost item
+ETC101L200,Etchant 101 200L,Supplier B Products,Paint Removal,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.27,Bought / cost item
+ETC101L200,Etchant 101 200L,Supplier B Products,Paint Removal,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+ETC101L200,Etchant 101 200L,Supplier B Products,Paint Removal,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.0224,Bought / cost item
+ETC101L1000,Etchant 101 1000L IBC,Supplier B Products,Paint Removal,1,RM-SALT-02,Salt flake,0.241,0.92,0.2217,0.2483,Bought / cost item
+ETC101L1000,Etchant 101 1000L IBC,Supplier B Products,Paint Removal,2,RM-SURF-03,Surfactant blend,0.152,4.2,0.6384,0.6384,Bought / cost item
+ETC101L1000,Etchant 101 1000L IBC,Supplier B Products,Paint Removal,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.1736,Bought / cost item
+ETC101L1000,Etchant 101 1000L IBC,Supplier B Products,Paint Removal,4,RM-WATER,Water,0.651,0.0,0.0,0.0,Bought / cost item
+ETC101L1000,Etchant 101 1000L IBC,Supplier B Products,Paint Removal,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.27,Bought / cost item
+ETC101L1000,Etchant 101 1000L IBC,Supplier B Products,Paint Removal,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+ETC101L1000,Etchant 101 1000L IBC,Supplier B Products,Paint Removal,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+ETC102L20,Etchant 102 20L,Supplier B Products,Paint Removal,1,RM-SURF-03,Surfactant blend,0.43,4.2,1.806,1.806,Bought / cost item
+ETC102L20,Etchant 102 20L,Supplier B Products,Paint Removal,2,RM-SOLV-04,Solvent,0.142,2.35,0.3337,0.3337,Bought / cost item
+ETC102L20,Etchant 102 20L,Supplier B Products,Paint Removal,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.1736,Bought / cost item
+ETC102L20,Etchant 102 20L,Supplier B Products,Paint Removal,4,RM-WATER,Water,0.668,0.0,0.0,0.0,Bought / cost item
+ETC102L20,Etchant 102 20L,Supplier B Products,Paint Removal,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+ETC102L20,Etchant 102 20L,Supplier B Products,Paint Removal,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.8694,Bought / cost item
+ETC102L20,Etchant 102 20L,Supplier B Products,Paint Removal,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+ETC102L200,Etchant 102 200L,Supplier B Products,Paint Removal,1,RM-SURF-03,Surfactant blend,0.099,4.2,0.4158,0.0,Bought / cost item
+ETC102L200,Etchant 102 200L,Supplier B Products,Paint Removal,2,RM-SALT-02,Salt flake,0.273,0.92,0.2512,0.2512,Bought / cost item
+ETC102L200,Etchant 102 200L,Supplier B Products,Paint Removal,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.14,Bought / cost item
+ETC102L200,Etchant 102 200L,Supplier B Products,Paint Removal,4,RM-WATER,Water,0.57,0.0,0.0,0.0,Bought / cost item
+ETC102L200,Etchant 102 200L,Supplier B Products,Paint Removal,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.0,Bought / cost item
+ETC102L200,Etchant 102 200L,Supplier B Products,Paint Removal,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+ETC102L200,Etchant 102 200L,Supplier B Products,Paint Removal,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.018,Bought / cost item
+ETC102L1000,Etchant 102 1000L IBC,Supplier B Products,Paint Removal,1,RM-ACID-01,Acid concentrate,0.061,1.85,0.1129,0.0,Bought / cost item
+ETC102L1000,Etchant 102 1000L IBC,Supplier B Products,Paint Removal,2,RM-SOLV-04,Solvent,0.114,2.35,0.2679,0.2679,Bought / cost item
+ETC102L1000,Etchant 102 1000L IBC,Supplier B Products,Paint Removal,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.155,Bought / cost item
+ETC102L1000,Etchant 102 1000L IBC,Supplier B Products,Paint Removal,4,RM-WATER,Water,0.464,0.0,0.0,0.0,Bought / cost item
+ETC102L1000,Etchant 102 1000L IBC,Supplier B Products,Paint Removal,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.336,Bought / cost item
+ETC102L1000,Etchant 102 1000L IBC,Supplier B Products,Paint Removal,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+ETC102L1000,Etchant 102 1000L IBC,Supplier B Products,Paint Removal,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+SEA101L20,Sealer 101 20L,Proprietary Chemical,Waste Treatment,1,RM-SALT-02,Salt flake,0.136,0.92,0.1251,0.0,Bought / cost item
+SEA101L20,Sealer 101 20L,Proprietary Chemical,Waste Treatment,2,RM-SOLV-04,Solvent,0.386,2.35,0.9071,0.9071,Bought / cost item
+SEA101L20,Sealer 101 20L,Proprietary Chemical,Waste Treatment,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.1736,Bought / cost item
+SEA101L20,Sealer 101 20L,Proprietary Chemical,Waste Treatment,4,RM-WATER,Water,0.633,0.0,0.0,0.0,Bought / cost item
+SEA101L20,Sealer 101 20L,Proprietary Chemical,Waste Treatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.336,Bought / cost item
+SEA101L20,Sealer 101 20L,Proprietary Chemical,Waste Treatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,1.0819,Bought / cost item
+SEA101L20,Sealer 101 20L,Proprietary Chemical,Waste Treatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.018,Bought / cost item
+SEA101L200,Sealer 101 200L,Proprietary Chemical,Waste Treatment,1,RM-SALT-02,Salt flake,0.051,0.92,0.0469,0.0526,Bought / cost item
+SEA101L200,Sealer 101 200L,Proprietary Chemical,Waste Treatment,2,RM-ACID-01,Acid concentrate,0.086,1.85,0.1591,0.1432,Bought / cost item
+SEA101L200,Sealer 101 200L,Proprietary Chemical,Waste Treatment,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.14,Bought / cost item
+SEA101L200,Sealer 101 200L,Proprietary Chemical,Waste Treatment,4,RM-WATER,Water,0.596,0.0,0.0,0.0,Bought / cost item
+SEA101L200,Sealer 101 200L,Proprietary Chemical,Waste Treatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.27,Bought / cost item
+SEA101L200,Sealer 101 200L,Proprietary Chemical,Waste Treatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,1.0819,Bought / cost item
+SEA101L200,Sealer 101 200L,Proprietary Chemical,Waste Treatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.0224,Bought / cost item
+SEA101L1000,Sealer 101 1000L IBC,Proprietary Chemical,Waste Treatment,1,RM-SOLV-04,Solvent,0.072,2.35,0.1692,0.1523,Bought / cost item
+SEA101L1000,Sealer 101 1000L IBC,Proprietary Chemical,Waste Treatment,2,RM-ACID-01,Acid concentrate,0.138,1.85,0.2553,0.0,Bought / cost item
+SEA101L1000,Sealer 101 1000L IBC,Proprietary Chemical,Waste Treatment,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.1395,Bought / cost item
+SEA101L1000,Sealer 101 1000L IBC,Proprietary Chemical,Waste Treatment,4,RM-WATER,Water,0.468,0.0,0.0,0.0,Bought / cost item
+SEA101L1000,Sealer 101 1000L IBC,Proprietary Chemical,Waste Treatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.27,Bought / cost item
+SEA101L1000,Sealer 101 1000L IBC,Proprietary Chemical,Waste Treatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+SEA101L1000,Sealer 101 1000L IBC,Proprietary Chemical,Waste Treatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.018,Bought / cost item
+SEA102L20,Sealer 102 20L,Proprietary Chemical,Waste Treatment,1,RM-SALT-02,Salt flake,0.395,0.92,0.3634,0.3634,Bought / cost item
+SEA102L20,Sealer 102 20L,Proprietary Chemical,Waste Treatment,2,RM-SURF-03,Surfactant blend,0.219,4.2,0.9198,0.8278,Bought / cost item
+SEA102L20,Sealer 102 20L,Proprietary Chemical,Waste Treatment,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.155,Bought / cost item
+SEA102L20,Sealer 102 20L,Proprietary Chemical,Waste Treatment,4,RM-WATER,Water,0.681,0.0,0.0,0.0,Bought / cost item
+SEA102L20,Sealer 102 20L,Proprietary Chemical,Waste Treatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.336,Bought / cost item
+SEA102L20,Sealer 102 20L,Proprietary Chemical,Waste Treatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+SEA102L20,Sealer 102 20L,Proprietary Chemical,Waste Treatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+SEA102L200,Sealer 102 200L,Proprietary Chemical,Waste Treatment,1,RM-SURF-03,Surfactant blend,0.173,4.2,0.7266,0.0,Bought / cost item
+SEA102L200,Sealer 102 200L,Proprietary Chemical,Waste Treatment,2,RM-SALT-02,Salt flake,0.07,0.92,0.0644,0.0721,Bought / cost item
+SEA102L200,Sealer 102 200L,Proprietary Chemical,Waste Treatment,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.1568,Bought / cost item
+SEA102L200,Sealer 102 200L,Proprietary Chemical,Waste Treatment,4,RM-WATER,Water,0.504,0.0,0.0,0.0,Bought / cost item
+SEA102L200,Sealer 102 200L,Proprietary Chemical,Waste Treatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+SEA102L200,Sealer 102 200L,Proprietary Chemical,Waste Treatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+SEA102L200,Sealer 102 200L,Proprietary Chemical,Waste Treatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+SEA102L1000,Sealer 102 1000L IBC,Proprietary Chemical,Waste Treatment,1,RM-ACID-01,Acid concentrate,0.372,1.85,0.6882,0.6194,Bought / cost item
+SEA102L1000,Sealer 102 1000L IBC,Proprietary Chemical,Waste Treatment,2,RM-SALT-02,Salt flake,0.479,0.92,0.4407,0.3966,Bought / cost item
+SEA102L1000,Sealer 102 1000L IBC,Proprietary Chemical,Waste Treatment,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.1736,Bought / cost item
+SEA102L1000,Sealer 102 1000L IBC,Proprietary Chemical,Waste Treatment,4,RM-WATER,Water,0.72,0.0,0.0,0.0,Bought / cost item
+SEA102L1000,Sealer 102 1000L IBC,Proprietary Chemical,Waste Treatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+SEA102L1000,Sealer 102 1000L IBC,Proprietary Chemical,Waste Treatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.8694,Bought / cost item
+SEA102L1000,Sealer 102 1000L IBC,Proprietary Chemical,Waste Treatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+CLN101L20,Cleaner 101 20L,Supplier A Products,Anodising,1,RM-ACID-01,Acid concentrate,0.186,1.85,0.3441,0.3441,Bought / cost item
+CLN101L20,Cleaner 101 20L,Supplier A Products,Anodising,2,RM-SURF-03,Surfactant blend,0.323,4.2,1.3566,1.5194,Bought / cost item
+CLN101L20,Cleaner 101 20L,Supplier A Products,Anodising,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.1736,Bought / cost item
+CLN101L20,Cleaner 101 20L,Supplier A Products,Anodising,4,RM-WATER,Water,0.561,0.0,0.0,0.0,Bought / cost item
+CLN101L20,Cleaner 101 20L,Supplier A Products,Anodising,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+CLN101L20,Cleaner 101 20L,Supplier A Products,Anodising,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.0,Bought / cost item
+CLN101L20,Cleaner 101 20L,Supplier A Products,Anodising,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+CLN101L200,Cleaner 101 200L,Supplier A Products,Anodising,1,RM-SOLV-04,Solvent,0.161,2.35,0.3784,0.3784,Bought / cost item
+CLN101L200,Cleaner 101 200L,Supplier A Products,Anodising,2,RM-ACID-01,Acid concentrate,0.342,1.85,0.6327,0.5694,Bought / cost item
+CLN101L200,Cleaner 101 200L,Supplier A Products,Anodising,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.0,Bought / cost item
+CLN101L200,Cleaner 101 200L,Supplier A Products,Anodising,4,RM-WATER,Water,0.591,0.0,0.0,0.0,Bought / cost item
+CLN101L200,Cleaner 101 200L,Supplier A Products,Anodising,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.27,Bought / cost item
+CLN101L200,Cleaner 101 200L,Supplier A Products,Anodising,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+CLN101L200,Cleaner 101 200L,Supplier A Products,Anodising,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+CLN101L1000,Cleaner 101 1000L IBC,Supplier A Products,Anodising,1,RM-SURF-03,Surfactant blend,0.088,4.2,0.3696,0.3696,Bought / cost item
+CLN101L1000,Cleaner 101 1000L IBC,Supplier A Products,Anodising,2,RM-SOLV-04,Solvent,0.239,2.35,0.5616,0.5055,Bought / cost item
+CLN101L1000,Cleaner 101 1000L IBC,Supplier A Products,Anodising,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.155,Bought / cost item
+CLN101L1000,Cleaner 101 1000L IBC,Supplier A Products,Anodising,4,RM-WATER,Water,0.482,0.0,0.0,0.0,Bought / cost item
+CLN101L1000,Cleaner 101 1000L IBC,Supplier A Products,Anodising,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.27,Bought / cost item
+CLN101L1000,Cleaner 101 1000L IBC,Supplier A Products,Anodising,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.0,Bought / cost item
+CLN101L1000,Cleaner 101 1000L IBC,Supplier A Products,Anodising,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+CLN102L20,Cleaner 102 20L,Supplier A Products,Anodising,1,RM-ACID-01,Acid concentrate,0.182,1.85,0.3367,0.0,Bought / cost item
+CLN102L20,Cleaner 102 20L,Supplier A Products,Anodising,2,RM-SALT-02,Salt flake,0.17,0.92,0.1564,0.1752,Bought / cost item
+CLN102L20,Cleaner 102 20L,Supplier A Products,Anodising,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.1736,Bought / cost item
+CLN102L20,Cleaner 102 20L,Supplier A Products,Anodising,4,RM-WATER,Water,0.47,0.0,0.0,0.0,Bought / cost item
+CLN102L20,Cleaner 102 20L,Supplier A Products,Anodising,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+CLN102L20,Cleaner 102 20L,Supplier A Products,Anodising,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+CLN102L20,Cleaner 102 20L,Supplier A Products,Anodising,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+CLN102L200,Cleaner 102 200L,Supplier A Products,Anodising,1,RM-SALT-02,Salt flake,0.448,0.92,0.4122,0.0,Bought / cost item
+CLN102L200,Cleaner 102 200L,Supplier A Products,Anodising,2,RM-SOLV-04,Solvent,0.135,2.35,0.3173,0.3173,Bought / cost item
+CLN102L200,Cleaner 102 200L,Supplier A Products,Anodising,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.126,Bought / cost item
+CLN102L200,Cleaner 102 200L,Supplier A Products,Anodising,4,RM-WATER,Water,0.488,0.0,0.0,0.0,Bought / cost item
+CLN102L200,Cleaner 102 200L,Supplier A Products,Anodising,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.0,Bought / cost item
+CLN102L200,Cleaner 102 200L,Supplier A Products,Anodising,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.0,Bought / cost item
+CLN102L200,Cleaner 102 200L,Supplier A Products,Anodising,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+CLN102L1000,Cleaner 102 1000L IBC,Supplier A Products,Anodising,1,RM-ACID-01,Acid concentrate,0.259,1.85,0.4792,0.4792,Bought / cost item
+CLN102L1000,Cleaner 102 1000L IBC,Supplier A Products,Anodising,2,RM-SURF-03,Surfactant blend,0.096,4.2,0.4032,0.3629,Bought / cost item
+CLN102L1000,Cleaner 102 1000L IBC,Supplier A Products,Anodising,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.155,Bought / cost item
+CLN102L1000,Cleaner 102 1000L IBC,Supplier A Products,Anodising,4,RM-WATER,Water,0.694,0.0,0.0,0.0,Bought / cost item
+CLN102L1000,Cleaner 102 1000L IBC,Supplier A Products,Anodising,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+CLN102L1000,Cleaner 102 1000L IBC,Supplier A Products,Anodising,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,1.0819,Bought / cost item
+CLN102L1000,Cleaner 102 1000L IBC,Supplier A Products,Anodising,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+INH101L20,Inhibitor 101 20L,Supplier B Products,Industrial,1,RM-ACID-01,Acid concentrate,0.135,1.85,0.2498,0.0,Bought / cost item
+INH101L20,Inhibitor 101 20L,Supplier B Products,Industrial,2,RM-SOLV-04,Solvent,0.137,2.35,0.322,0.322,Bought / cost item
+INH101L20,Inhibitor 101 20L,Supplier B Products,Industrial,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.1736,Bought / cost item
+INH101L20,Inhibitor 101 20L,Supplier B Products,Industrial,4,RM-WATER,Water,0.579,0.0,0.0,0.0,Bought / cost item
+INH101L20,Inhibitor 101 20L,Supplier B Products,Industrial,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.27,Bought / cost item
+INH101L20,Inhibitor 101 20L,Supplier B Products,Industrial,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.0,Bought / cost item
+INH101L20,Inhibitor 101 20L,Supplier B Products,Industrial,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.0224,Bought / cost item
+INH101L200,Inhibitor 101 200L,Supplier B Products,Industrial,1,RM-ACID-01,Acid concentrate,0.337,1.85,0.6235,0.0,Bought / cost item
+INH101L200,Inhibitor 101 200L,Supplier B Products,Industrial,2,RM-SOLV-04,Solvent,0.207,2.35,0.4864,0.4864,Bought / cost item
+INH101L200,Inhibitor 101 200L,Supplier B Products,Industrial,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.1568,Bought / cost item
+INH101L200,Inhibitor 101 200L,Supplier B Products,Industrial,4,RM-WATER,Water,0.519,0.0,0.0,0.0,Bought / cost item
+INH101L200,Inhibitor 101 200L,Supplier B Products,Industrial,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+INH101L200,Inhibitor 101 200L,Supplier B Products,Industrial,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,1.0819,Bought / cost item
+INH101L200,Inhibitor 101 200L,Supplier B Products,Industrial,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+INH101L1000,Inhibitor 101 1000L IBC,Supplier B Products,Industrial,1,RM-SALT-02,Salt flake,0.418,0.92,0.3846,0.3461,Bought / cost item
+INH101L1000,Inhibitor 101 1000L IBC,Supplier B Products,Industrial,2,RM-ACID-01,Acid concentrate,0.355,1.85,0.6567,0.6567,Bought / cost item
+INH101L1000,Inhibitor 101 1000L IBC,Supplier B Products,Industrial,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.0,Bought / cost item
+INH101L1000,Inhibitor 101 1000L IBC,Supplier B Products,Industrial,4,RM-WATER,Water,0.509,0.0,0.0,0.0,Bought / cost item
+INH101L1000,Inhibitor 101 1000L IBC,Supplier B Products,Industrial,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+INH101L1000,Inhibitor 101 1000L IBC,Supplier B Products,Industrial,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.8694,Bought / cost item
+INH101L1000,Inhibitor 101 1000L IBC,Supplier B Products,Industrial,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.0,Bought / cost item
+INH102L20,Inhibitor 102 20L,Supplier B Products,Industrial,1,RM-SOLV-04,Solvent,0.234,2.35,0.5499,0.4949,Bought / cost item
+INH102L20,Inhibitor 102 20L,Supplier B Products,Industrial,2,RM-ACID-01,Acid concentrate,0.349,1.85,0.6456,0.6456,Bought / cost item
+INH102L20,Inhibitor 102 20L,Supplier B Products,Industrial,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.0,Bought / cost item
+INH102L20,Inhibitor 102 20L,Supplier B Products,Industrial,4,RM-WATER,Water,0.432,0.0,0.0,0.0,Bought / cost item
+INH102L20,Inhibitor 102 20L,Supplier B Products,Industrial,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.27,Bought / cost item
+INH102L20,Inhibitor 102 20L,Supplier B Products,Industrial,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,1.0819,Bought / cost item
+INH102L20,Inhibitor 102 20L,Supplier B Products,Industrial,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.018,Bought / cost item
+INH102L200,Inhibitor 102 200L,Supplier B Products,Industrial,1,RM-SURF-03,Surfactant blend,0.188,4.2,0.7896,0.7896,Bought / cost item
+INH102L200,Inhibitor 102 200L,Supplier B Products,Industrial,2,RM-SOLV-04,Solvent,0.191,2.35,0.4489,0.0,Bought / cost item
+INH102L200,Inhibitor 102 200L,Supplier B Products,Industrial,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.1568,Bought / cost item
+INH102L200,Inhibitor 102 200L,Supplier B Products,Industrial,4,RM-WATER,Water,0.545,0.0,0.0,0.0,Bought / cost item
+INH102L200,Inhibitor 102 200L,Supplier B Products,Industrial,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.336,Bought / cost item
+INH102L200,Inhibitor 102 200L,Supplier B Products,Industrial,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+INH102L200,Inhibitor 102 200L,Supplier B Products,Industrial,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.018,Bought / cost item
+INH102L1000,Inhibitor 102 1000L IBC,Supplier B Products,Industrial,1,RM-SOLV-04,Solvent,0.474,2.35,1.1139,1.0025,Bought / cost item
+INH102L1000,Inhibitor 102 1000L IBC,Supplier B Products,Industrial,2,RM-ACID-01,Acid concentrate,0.456,1.85,0.8436,0.7592,Bought / cost item
+INH102L1000,Inhibitor 102 1000L IBC,Supplier B Products,Industrial,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.155,Bought / cost item
+INH102L1000,Inhibitor 102 1000L IBC,Supplier B Products,Industrial,4,RM-WATER,Water,0.687,0.0,0.0,0.0,Bought / cost item
+INH102L1000,Inhibitor 102 1000L IBC,Supplier B Products,Industrial,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.0,Bought / cost item
+INH102L1000,Inhibitor 102 1000L IBC,Supplier B Products,Industrial,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,1.0819,Bought / cost item
+INH102L1000,Inhibitor 102 1000L IBC,Supplier B Products,Industrial,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.018,Bought / cost item
+BRT101L20,Brightener 101 20L,Proprietary Chemical,Metal Pretreatment,1,RM-SALT-02,Salt flake,0.057,0.92,0.0524,0.0,Bought / cost item
+BRT101L20,Brightener 101 20L,Proprietary Chemical,Metal Pretreatment,2,RM-ACID-01,Acid concentrate,0.114,1.85,0.2109,0.1898,Bought / cost item
+BRT101L20,Brightener 101 20L,Proprietary Chemical,Metal Pretreatment,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.155,Bought / cost item
+BRT101L20,Brightener 101 20L,Proprietary Chemical,Metal Pretreatment,4,RM-WATER,Water,0.601,0.0,0.0,0.0,Bought / cost item
+BRT101L20,Brightener 101 20L,Proprietary Chemical,Metal Pretreatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.0,Bought / cost item
+BRT101L20,Brightener 101 20L,Proprietary Chemical,Metal Pretreatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+BRT101L20,Brightener 101 20L,Proprietary Chemical,Metal Pretreatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+BRT101L200,Brightener 101 200L,Proprietary Chemical,Metal Pretreatment,1,RM-SURF-03,Surfactant blend,0.123,4.2,0.5166,0.5166,Bought / cost item
+BRT101L200,Brightener 101 200L,Proprietary Chemical,Metal Pretreatment,2,RM-SALT-02,Salt flake,0.466,0.92,0.4287,0.4287,Bought / cost item
+BRT101L200,Brightener 101 200L,Proprietary Chemical,Metal Pretreatment,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.126,Bought / cost item
+BRT101L200,Brightener 101 200L,Proprietary Chemical,Metal Pretreatment,4,RM-WATER,Water,0.572,0.0,0.0,0.0,Bought / cost item
+BRT101L200,Brightener 101 200L,Proprietary Chemical,Metal Pretreatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.336,Bought / cost item
+BRT101L200,Brightener 101 200L,Proprietary Chemical,Metal Pretreatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+BRT101L200,Brightener 101 200L,Proprietary Chemical,Metal Pretreatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+BRT101L1000,Brightener 101 1000L IBC,Proprietary Chemical,Metal Pretreatment,1,RM-SOLV-04,Solvent,0.074,2.35,0.1739,0.1565,Bought / cost item
+BRT101L1000,Brightener 101 1000L IBC,Proprietary Chemical,Metal Pretreatment,2,RM-SALT-02,Salt flake,0.089,0.92,0.0819,0.0,Bought / cost item
+BRT101L1000,Brightener 101 1000L IBC,Proprietary Chemical,Metal Pretreatment,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.155,Bought / cost item
+BRT101L1000,Brightener 101 1000L IBC,Proprietary Chemical,Metal Pretreatment,4,RM-WATER,Water,0.624,0.0,0.0,0.0,Bought / cost item
+BRT101L1000,Brightener 101 1000L IBC,Proprietary Chemical,Metal Pretreatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.0,Bought / cost item
+BRT101L1000,Brightener 101 1000L IBC,Proprietary Chemical,Metal Pretreatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.8694,Bought / cost item
+BRT101L1000,Brightener 101 1000L IBC,Proprietary Chemical,Metal Pretreatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.0,Bought / cost item
+BRT102L20,Brightener 102 20L,Proprietary Chemical,Metal Pretreatment,1,RM-SALT-02,Salt flake,0.132,0.92,0.1214,0.1214,Bought / cost item
+BRT102L20,Brightener 102 20L,Proprietary Chemical,Metal Pretreatment,2,RM-SOLV-04,Solvent,0.069,2.35,0.1622,0.0,Bought / cost item
+BRT102L20,Brightener 102 20L,Proprietary Chemical,Metal Pretreatment,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.155,Bought / cost item
+BRT102L20,Brightener 102 20L,Proprietary Chemical,Metal Pretreatment,4,RM-WATER,Water,0.534,0.0,0.0,0.0,Bought / cost item
+BRT102L20,Brightener 102 20L,Proprietary Chemical,Metal Pretreatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+BRT102L20,Brightener 102 20L,Proprietary Chemical,Metal Pretreatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+BRT102L20,Brightener 102 20L,Proprietary Chemical,Metal Pretreatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+BRT102L200,Brightener 102 200L,Proprietary Chemical,Metal Pretreatment,1,RM-ACID-01,Acid concentrate,0.429,1.85,0.7937,0.7937,Bought / cost item
+BRT102L200,Brightener 102 200L,Proprietary Chemical,Metal Pretreatment,2,RM-SURF-03,Surfactant blend,0.351,4.2,1.4742,1.6511,Bought / cost item
+BRT102L200,Brightener 102 200L,Proprietary Chemical,Metal Pretreatment,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.14,Bought / cost item
+BRT102L200,Brightener 102 200L,Proprietary Chemical,Metal Pretreatment,4,RM-WATER,Water,0.536,0.0,0.0,0.0,Bought / cost item
+BRT102L200,Brightener 102 200L,Proprietary Chemical,Metal Pretreatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.0,Bought / cost item
+BRT102L200,Brightener 102 200L,Proprietary Chemical,Metal Pretreatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,1.0819,Bought / cost item
+BRT102L200,Brightener 102 200L,Proprietary Chemical,Metal Pretreatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.018,Bought / cost item
+BRT102L1000,Brightener 102 1000L IBC,Proprietary Chemical,Metal Pretreatment,1,RM-SURF-03,Surfactant blend,0.162,4.2,0.6804,0.6124,Bought / cost item
+BRT102L1000,Brightener 102 1000L IBC,Proprietary Chemical,Metal Pretreatment,2,RM-SOLV-04,Solvent,0.346,2.35,0.8131,0.7318,Bought / cost item
+BRT102L1000,Brightener 102 1000L IBC,Proprietary Chemical,Metal Pretreatment,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.0,Bought / cost item
+BRT102L1000,Brightener 102 1000L IBC,Proprietary Chemical,Metal Pretreatment,4,RM-WATER,Water,0.553,0.0,0.0,0.0,Bought / cost item
+BRT102L1000,Brightener 102 1000L IBC,Proprietary Chemical,Metal Pretreatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+BRT102L1000,Brightener 102 1000L IBC,Proprietary Chemical,Metal Pretreatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.0,Bought / cost item
+BRT102L1000,Brightener 102 1000L IBC,Proprietary Chemical,Metal Pretreatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.018,Bought / cost item
+STR101L20,Paint Stripper 101 20L,Supplier A Products,Plating,1,RM-SOLV-04,Solvent,0.251,2.35,0.5898,0.0,Bought / cost item
+STR101L20,Paint Stripper 101 20L,Supplier A Products,Plating,2,RM-ACID-01,Acid concentrate,0.401,1.85,0.7419,0.6677,Bought / cost item
+STR101L20,Paint Stripper 101 20L,Supplier A Products,Plating,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.155,Bought / cost item
+STR101L20,Paint Stripper 101 20L,Supplier A Products,Plating,4,RM-WATER,Water,0.684,0.0,0.0,0.0,Bought / cost item
+STR101L20,Paint Stripper 101 20L,Supplier A Products,Plating,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+STR101L20,Paint Stripper 101 20L,Supplier A Products,Plating,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+STR101L20,Paint Stripper 101 20L,Supplier A Products,Plating,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+STR101L200,Paint Stripper 101 200L,Supplier A Products,Plating,1,RM-SURF-03,Surfactant blend,0.214,4.2,0.8988,0.8089,Bought / cost item
+STR101L200,Paint Stripper 101 200L,Supplier A Products,Plating,2,RM-SALT-02,Salt flake,0.277,0.92,0.2548,0.2548,Bought / cost item
+STR101L200,Paint Stripper 101 200L,Supplier A Products,Plating,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.14,Bought / cost item
+STR101L200,Paint Stripper 101 200L,Supplier A Products,Plating,4,RM-WATER,Water,0.623,0.0,0.0,0.0,Bought / cost item
+STR101L200,Paint Stripper 101 200L,Supplier A Products,Plating,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.336,Bought / cost item
+STR101L200,Paint Stripper 101 200L,Supplier A Products,Plating,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.0,Bought / cost item
+STR101L200,Paint Stripper 101 200L,Supplier A Products,Plating,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+STR101L1000,Paint Stripper 101 1000L IBC,Supplier A Products,Plating,1,RM-ACID-01,Acid concentrate,0.453,1.85,0.8381,0.8381,Bought / cost item
+STR101L1000,Paint Stripper 101 1000L IBC,Supplier A Products,Plating,2,RM-SURF-03,Surfactant blend,0.062,4.2,0.2604,0.2604,Bought / cost item
+STR101L1000,Paint Stripper 101 1000L IBC,Supplier A Products,Plating,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.0,Bought / cost item
+STR101L1000,Paint Stripper 101 1000L IBC,Supplier A Products,Plating,4,RM-WATER,Water,0.656,0.0,0.0,0.0,Bought / cost item
+STR101L1000,Paint Stripper 101 1000L IBC,Supplier A Products,Plating,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+STR101L1000,Paint Stripper 101 1000L IBC,Supplier A Products,Plating,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+STR101L1000,Paint Stripper 101 1000L IBC,Supplier A Products,Plating,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.018,Bought / cost item
+STR102L20,Paint Stripper 102 20L,Supplier A Products,Plating,1,RM-SURF-03,Surfactant blend,0.359,4.2,1.5078,1.5078,Bought / cost item
+STR102L20,Paint Stripper 102 20L,Supplier A Products,Plating,2,RM-ACID-01,Acid concentrate,0.079,1.85,0.1462,0.1637,Bought / cost item
+STR102L20,Paint Stripper 102 20L,Supplier A Products,Plating,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.0,Bought / cost item
+STR102L20,Paint Stripper 102 20L,Supplier A Products,Plating,4,RM-WATER,Water,0.665,0.0,0.0,0.0,Bought / cost item
+STR102L20,Paint Stripper 102 20L,Supplier A Products,Plating,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.336,Bought / cost item
+STR102L20,Paint Stripper 102 20L,Supplier A Products,Plating,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.0,Bought / cost item
+STR102L20,Paint Stripper 102 20L,Supplier A Products,Plating,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.0224,Bought / cost item
+STR102L200,Paint Stripper 102 200L,Supplier A Products,Plating,1,RM-SOLV-04,Solvent,0.164,2.35,0.3854,0.3469,Bought / cost item
+STR102L200,Paint Stripper 102 200L,Supplier A Products,Plating,2,RM-ACID-01,Acid concentrate,0.144,1.85,0.2664,0.2984,Bought / cost item
+STR102L200,Paint Stripper 102 200L,Supplier A Products,Plating,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.0,Bought / cost item
+STR102L200,Paint Stripper 102 200L,Supplier A Products,Plating,4,RM-WATER,Water,0.577,0.0,0.0,0.0,Bought / cost item
+STR102L200,Paint Stripper 102 200L,Supplier A Products,Plating,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.336,Bought / cost item
+STR102L200,Paint Stripper 102 200L,Supplier A Products,Plating,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+STR102L200,Paint Stripper 102 200L,Supplier A Products,Plating,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+STR102L1000,Paint Stripper 102 1000L IBC,Supplier A Products,Plating,1,RM-SALT-02,Salt flake,0.123,0.92,0.1132,0.1267,Bought / cost item
+STR102L1000,Paint Stripper 102 1000L IBC,Supplier A Products,Plating,2,RM-SOLV-04,Solvent,0.356,2.35,0.8366,0.7529,Bought / cost item
+STR102L1000,Paint Stripper 102 1000L IBC,Supplier A Products,Plating,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.155,Bought / cost item
+STR102L1000,Paint Stripper 102 1000L IBC,Supplier A Products,Plating,4,RM-WATER,Water,0.677,0.0,0.0,0.0,Bought / cost item
+STR102L1000,Paint Stripper 102 1000L IBC,Supplier A Products,Plating,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+STR102L1000,Paint Stripper 102 1000L IBC,Supplier A Products,Plating,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.0,Bought / cost item
+STR102L1000,Paint Stripper 102 1000L IBC,Supplier A Products,Plating,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+NEU101L20,Neutraliser 101 20L,Supplier B Products,Paint Removal,1,RM-SURF-03,Surfactant blend,0.3,4.2,1.26,0.0,Bought / cost item
+NEU101L20,Neutraliser 101 20L,Supplier B Products,Paint Removal,2,RM-SALT-02,Salt flake,0.36,0.92,0.3312,0.3312,Bought / cost item
+NEU101L20,Neutraliser 101 20L,Supplier B Products,Paint Removal,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.1736,Bought / cost item
+NEU101L20,Neutraliser 101 20L,Supplier B Products,Paint Removal,4,RM-WATER,Water,0.748,0.0,0.0,0.0,Bought / cost item
+NEU101L20,Neutraliser 101 20L,Supplier B Products,Paint Removal,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.336,Bought / cost item
+NEU101L20,Neutraliser 101 20L,Supplier B Products,Paint Removal,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,1.0819,Bought / cost item
+NEU101L20,Neutraliser 101 20L,Supplier B Products,Paint Removal,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.018,Bought / cost item
+NEU101L200,Neutraliser 101 200L,Supplier B Products,Paint Removal,1,RM-SURF-03,Surfactant blend,0.116,4.2,0.4872,0.5457,Bought / cost item
+NEU101L200,Neutraliser 101 200L,Supplier B Products,Paint Removal,2,RM-SOLV-04,Solvent,0.394,2.35,0.9259,0.8333,Bought / cost item
+NEU101L200,Neutraliser 101 200L,Supplier B Products,Paint Removal,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.14,Bought / cost item
+NEU101L200,Neutraliser 101 200L,Supplier B Products,Paint Removal,4,RM-WATER,Water,0.462,0.0,0.0,0.0,Bought / cost item
+NEU101L200,Neutraliser 101 200L,Supplier B Products,Paint Removal,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.336,Bought / cost item
+NEU101L200,Neutraliser 101 200L,Supplier B Products,Paint Removal,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.0,Bought / cost item
+NEU101L200,Neutraliser 101 200L,Supplier B Products,Paint Removal,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.0224,Bought / cost item
+NEU101L1000,Neutraliser 101 1000L IBC,Supplier B Products,Paint Removal,1,RM-SURF-03,Surfactant blend,0.485,4.2,2.037,0.0,Bought / cost item
+NEU101L1000,Neutraliser 101 1000L IBC,Supplier B Products,Paint Removal,2,RM-SOLV-04,Solvent,0.468,2.35,1.0998,1.2318,Bought / cost item
+NEU101L1000,Neutraliser 101 1000L IBC,Supplier B Products,Paint Removal,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.155,Bought / cost item
+NEU101L1000,Neutraliser 101 1000L IBC,Supplier B Products,Paint Removal,4,RM-WATER,Water,0.661,0.0,0.0,0.0,Bought / cost item
+NEU101L1000,Neutraliser 101 1000L IBC,Supplier B Products,Paint Removal,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+NEU101L1000,Neutraliser 101 1000L IBC,Supplier B Products,Paint Removal,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,1.0819,Bought / cost item
+NEU101L1000,Neutraliser 101 1000L IBC,Supplier B Products,Paint Removal,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.0,Bought / cost item
+NEU102L20,Neutraliser 102 20L,Supplier B Products,Paint Removal,1,RM-SOLV-04,Solvent,0.281,2.35,0.6604,0.6604,Bought / cost item
+NEU102L20,Neutraliser 102 20L,Supplier B Products,Paint Removal,2,RM-SALT-02,Salt flake,0.109,0.92,0.1003,0.1003,Bought / cost item
+NEU102L20,Neutraliser 102 20L,Supplier B Products,Paint Removal,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.0,Bought / cost item
+NEU102L20,Neutraliser 102 20L,Supplier B Products,Paint Removal,4,RM-WATER,Water,0.629,0.0,0.0,0.0,Bought / cost item
+NEU102L20,Neutraliser 102 20L,Supplier B Products,Paint Removal,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+NEU102L20,Neutraliser 102 20L,Supplier B Products,Paint Removal,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+NEU102L20,Neutraliser 102 20L,Supplier B Products,Paint Removal,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.0,Bought / cost item
+NEU102L200,Neutraliser 102 200L,Supplier B Products,Paint Removal,1,RM-SURF-03,Surfactant blend,0.098,4.2,0.4116,0.461,Bought / cost item
+NEU102L200,Neutraliser 102 200L,Supplier B Products,Paint Removal,2,RM-SALT-02,Salt flake,0.29,0.92,0.2668,0.2401,Bought / cost item
+NEU102L200,Neutraliser 102 200L,Supplier B Products,Paint Removal,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.0,Bought / cost item
+NEU102L200,Neutraliser 102 200L,Supplier B Products,Paint Removal,4,RM-WATER,Water,0.505,0.0,0.0,0.0,Bought / cost item
+NEU102L200,Neutraliser 102 200L,Supplier B Products,Paint Removal,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+NEU102L200,Neutraliser 102 200L,Supplier B Products,Paint Removal,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,1.0819,Bought / cost item
+NEU102L200,Neutraliser 102 200L,Supplier B Products,Paint Removal,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.0,Bought / cost item
+NEU102L1000,Neutraliser 102 1000L IBC,Supplier B Products,Paint Removal,1,RM-SOLV-04,Solvent,0.111,2.35,0.2609,0.2609,Bought / cost item
+NEU102L1000,Neutraliser 102 1000L IBC,Supplier B Products,Paint Removal,2,RM-ACID-01,Acid concentrate,0.368,1.85,0.6808,0.6127,Bought / cost item
+NEU102L1000,Neutraliser 102 1000L IBC,Supplier B Products,Paint Removal,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.155,Bought / cost item
+NEU102L1000,Neutraliser 102 1000L IBC,Supplier B Products,Paint Removal,4,RM-WATER,Water,0.422,0.0,0.0,0.0,Bought / cost item
+NEU102L1000,Neutraliser 102 1000L IBC,Supplier B Products,Paint Removal,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.336,Bought / cost item
+NEU102L1000,Neutraliser 102 1000L IBC,Supplier B Products,Paint Removal,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.8694,Bought / cost item
+NEU102L1000,Neutraliser 102 1000L IBC,Supplier B Products,Paint Removal,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.0224,Bought / cost item
+LUB101L20,Drawing Lubricant 101 20L,Proprietary Chemical,Waste Treatment,1,RM-ACID-01,Acid concentrate,0.34,1.85,0.629,0.0,Bought / cost item
+LUB101L20,Drawing Lubricant 101 20L,Proprietary Chemical,Waste Treatment,2,RM-SOLV-04,Solvent,0.452,2.35,1.0622,0.0,Bought / cost item
+LUB101L20,Drawing Lubricant 101 20L,Proprietary Chemical,Waste Treatment,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.0,Bought / cost item
+LUB101L20,Drawing Lubricant 101 20L,Proprietary Chemical,Waste Treatment,4,RM-WATER,Water,0.555,0.0,0.0,0.0,Bought / cost item
+LUB101L20,Drawing Lubricant 101 20L,Proprietary Chemical,Waste Treatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.27,Bought / cost item
+LUB101L20,Drawing Lubricant 101 20L,Proprietary Chemical,Waste Treatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+LUB101L20,Drawing Lubricant 101 20L,Proprietary Chemical,Waste Treatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+LUB101L200,Drawing Lubricant 101 200L,Proprietary Chemical,Waste Treatment,1,RM-ACID-01,Acid concentrate,0.078,1.85,0.1443,0.1443,Bought / cost item
+LUB101L200,Drawing Lubricant 101 200L,Proprietary Chemical,Waste Treatment,2,RM-SOLV-04,Solvent,0.233,2.35,0.5476,0.5476,Bought / cost item
+LUB101L200,Drawing Lubricant 101 200L,Proprietary Chemical,Waste Treatment,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.14,Bought / cost item
+LUB101L200,Drawing Lubricant 101 200L,Proprietary Chemical,Waste Treatment,4,RM-WATER,Water,0.42,0.0,0.0,0.0,Bought / cost item
+LUB101L200,Drawing Lubricant 101 200L,Proprietary Chemical,Waste Treatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+LUB101L200,Drawing Lubricant 101 200L,Proprietary Chemical,Waste Treatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.0,Bought / cost item
+LUB101L200,Drawing Lubricant 101 200L,Proprietary Chemical,Waste Treatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.0,Bought / cost item
+LUB101L1000,Drawing Lubricant 101 1000L IBC,Proprietary Chemical,Waste Treatment,1,RM-SALT-02,Salt flake,0.236,0.92,0.2171,0.0,Bought / cost item
+LUB101L1000,Drawing Lubricant 101 1000L IBC,Proprietary Chemical,Waste Treatment,2,RM-ACID-01,Acid concentrate,0.324,1.85,0.5994,0.0,Bought / cost item
+LUB101L1000,Drawing Lubricant 101 1000L IBC,Proprietary Chemical,Waste Treatment,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.1395,Bought / cost item
+LUB101L1000,Drawing Lubricant 101 1000L IBC,Proprietary Chemical,Waste Treatment,4,RM-WATER,Water,0.685,0.0,0.0,0.0,Bought / cost item
+LUB101L1000,Drawing Lubricant 101 1000L IBC,Proprietary Chemical,Waste Treatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.0,Bought / cost item
+LUB101L1000,Drawing Lubricant 101 1000L IBC,Proprietary Chemical,Waste Treatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,1.0819,Bought / cost item
+LUB101L1000,Drawing Lubricant 101 1000L IBC,Proprietary Chemical,Waste Treatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+LUB102L20,Drawing Lubricant 102 20L,Proprietary Chemical,Waste Treatment,1,RM-SURF-03,Surfactant blend,0.072,4.2,0.3024,0.2722,Bought / cost item
+LUB102L20,Drawing Lubricant 102 20L,Proprietary Chemical,Waste Treatment,2,RM-SOLV-04,Solvent,0.372,2.35,0.8742,0.8742,Bought / cost item
+LUB102L20,Drawing Lubricant 102 20L,Proprietary Chemical,Waste Treatment,3,PK-DRUM-20,20L drum,0.05,3.1,0.155,0.1395,Bought / cost item
+LUB102L20,Drawing Lubricant 102 20L,Proprietary Chemical,Waste Treatment,4,RM-WATER,Water,0.696,0.0,0.0,0.0,Bought / cost item
+LUB102L20,Drawing Lubricant 102 20L,Proprietary Chemical,Waste Treatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+LUB102L20,Drawing Lubricant 102 20L,Proprietary Chemical,Waste Treatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.8694,Bought / cost item
+LUB102L20,Drawing Lubricant 102 20L,Proprietary Chemical,Waste Treatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.02,Bought / cost item
+LUB102L200,Drawing Lubricant 102 200L,Proprietary Chemical,Waste Treatment,1,RM-SALT-02,Salt flake,0.168,0.92,0.1546,0.1546,Bought / cost item
+LUB102L200,Drawing Lubricant 102 200L,Proprietary Chemical,Waste Treatment,2,RM-ACID-01,Acid concentrate,0.105,1.85,0.1943,0.2176,Bought / cost item
+LUB102L200,Drawing Lubricant 102 200L,Proprietary Chemical,Waste Treatment,3,PK-DRUM-200,200L drum,0.005,28.0,0.14,0.14,Bought / cost item
+LUB102L200,Drawing Lubricant 102 200L,Proprietary Chemical,Waste Treatment,4,RM-WATER,Water,0.493,0.0,0.0,0.0,Bought / cost item
+LUB102L200,Drawing Lubricant 102 200L,Proprietary Chemical,Waste Treatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.27,Bought / cost item
+LUB102L200,Drawing Lubricant 102 200L,Proprietary Chemical,Waste Treatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.0,Bought / cost item
+LUB102L200,Drawing Lubricant 102 200L,Proprietary Chemical,Waste Treatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.0224,Bought / cost item
+LUB102L1000,Drawing Lubricant 102 1000L IBC,Proprietary Chemical,Waste Treatment,1,RM-SURF-03,Surfactant blend,0.468,4.2,1.9656,1.9656,Bought / cost item
+LUB102L1000,Drawing Lubricant 102 1000L IBC,Proprietary Chemical,Waste Treatment,2,RM-SOLV-04,Solvent,0.088,2.35,0.2068,0.0,Bought / cost item
+LUB102L1000,Drawing Lubricant 102 1000L IBC,Proprietary Chemical,Waste Treatment,3,PK-IBC,IBC (1000L),0.001,155.0,0.155,0.155,Bought / cost item
+LUB102L1000,Drawing Lubricant 102 1000L IBC,Proprietary Chemical,Waste Treatment,4,RM-WATER,Water,0.459,0.0,0.0,0.0,Bought / cost item
+LUB102L1000,Drawing Lubricant 102 1000L IBC,Proprietary Chemical,Waste Treatment,5,COST-FREIGHT,Freight (cost item),0.1,3.0,0.3,0.3,Bought / cost item
+LUB102L1000,Drawing Lubricant 102 1000L IBC,Proprietary Chemical,Waste Treatment,6,COST-LABOUR,Manufacturing cost,0.42,2.3,0.966,0.966,Bought / cost item
+LUB102L1000,Drawing Lubricant 102 1000L IBC,Proprietary Chemical,Waste Treatment,7,COST-LOSS,2% manufacturing loss,0.02,1.0,0.02,0.0224,Bought / cost item

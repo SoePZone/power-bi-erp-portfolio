@@ -1,0 +1,73 @@
+Account,Name,Name - Account,Rep,Item Code,Description,Price
+CUST100,Acme Coatings,Acme Coatings - CUST100,Alex,SEA101L1000,Sealer 101 1000L IBC,21.07
+CUST100,Acme Coatings,Acme Coatings - CUST100,Alex,PAS102L20,Passivator 102 20L,5.07
+CUST100,Acme Coatings,Acme Coatings - CUST100,Alex,CLN101L200,Cleaner 101 200L,15.82
+CUST100,Acme Coatings,Acme Coatings - CUST100,Alex,BRT102L1000,Brightener 102 1000L IBC,23.01
+CUST100,Acme Coatings,Acme Coatings - CUST100,Alex,DEG102L20,Degreaser 102 20L,7.72
+CUST100,Acme Coatings,Acme Coatings - CUST100,Alex,DEG102L200,Degreaser 102 200L,4.89
+CUST101,Bayside Platers,Bayside Platers - CUST101,Brooke,CLN101L1000,Cleaner 101 1000L IBC,4.3
+CUST101,Bayside Platers,Bayside Platers - CUST101,Brooke,DEG102L200,Degreaser 102 200L,15.44
+CUST101,Bayside Platers,Bayside Platers - CUST101,Brooke,ETC102L20,Etchant 102 20L,23.84
+CUST101,Bayside Platers,Bayside Platers - CUST101,Brooke,DEG102L1000,Degreaser 102 1000L IBC,16.87
+CUST101,Bayside Platers,Bayside Platers - CUST101,Brooke,INH102L1000,Inhibitor 102 1000L IBC,15.83
+CUST101,Bayside Platers,Bayside Platers - CUST101,Brooke,CLN102L20,Cleaner 102 20L,4.36
+CUST102,Coastal Anodising,Coastal Anodising - CUST102,Chris,BRT101L200,Brightener 101 200L,21.89
+CUST102,Coastal Anodising,Coastal Anodising - CUST102,Chris,CLN101L200,Cleaner 101 200L,9.37
+CUST102,Coastal Anodising,Coastal Anodising - CUST102,Chris,DEG102L20,Degreaser 102 20L,6.17
+CUST102,Coastal Anodising,Coastal Anodising - CUST102,Chris,ETC101L1000,Etchant 101 1000L IBC,5.59
+CUST102,Coastal Anodising,Coastal Anodising - CUST102,Chris,DEG101L1000,Degreaser 101 1000L IBC,9.79
+CUST102,Coastal Anodising,Coastal Anodising - CUST102,Chris,INH102L1000,Inhibitor 102 1000L IBC,20.95
+CUST103,Delta Metal Finishing,Delta Metal Finishing - CUST103,Dana,PAS102L1000,Passivator 102 1000L IBC,11.19
+CUST103,Delta Metal Finishing,Delta Metal Finishing - CUST103,Dana,PAS101L20,Passivator 101 20L,15.05
+CUST103,Delta Metal Finishing,Delta Metal Finishing - CUST103,Dana,BRT101L200,Brightener 101 200L,4.38
+CUST103,Delta Metal Finishing,Delta Metal Finishing - CUST103,Dana,BRT101L20,Brightener 101 20L,4.31
+CUST103,Delta Metal Finishing,Delta Metal Finishing - CUST103,Dana,BRT102L200,Brightener 102 200L,7.53
+CUST103,Delta Metal Finishing,Delta Metal Finishing - CUST103,Dana,ETC101L20,Etchant 101 20L,17.97
+CUST104,Eastside Galvanising,Eastside Galvanising - CUST104,Alex,CLN102L20,Cleaner 102 20L,10.95
+CUST104,Eastside Galvanising,Eastside Galvanising - CUST104,Alex,NEU101L200,Neutraliser 101 200L,8.47
+CUST104,Eastside Galvanising,Eastside Galvanising - CUST104,Alex,SEA101L1000,Sealer 101 1000L IBC,6.95
+CUST104,Eastside Galvanising,Eastside Galvanising - CUST104,Alex,CLN102L1000,Cleaner 102 1000L IBC,20.16
+CUST104,Eastside Galvanising,Eastside Galvanising - CUST104,Alex,BRT101L200,Brightener 101 200L,4.8
+CUST104,Eastside Galvanising,Eastside Galvanising - CUST104,Alex,LUB101L1000,Drawing Lubricant 101 1000L IBC,9.61
+CUST105,Fairfield Engineering,Fairfield Engineering - CUST105,Brooke,INH101L200,Inhibitor 101 200L,16.4
+CUST105,Fairfield Engineering,Fairfield Engineering - CUST105,Brooke,LUB101L1000,Drawing Lubricant 101 1000L IBC,4.61
+CUST105,Fairfield Engineering,Fairfield Engineering - CUST105,Brooke,SEA102L20,Sealer 102 20L,14.26
+CUST105,Fairfield Engineering,Fairfield Engineering - CUST105,Brooke,STR102L200,Paint Stripper 102 200L,6.63
+CUST105,Fairfield Engineering,Fairfield Engineering - CUST105,Brooke,CLN102L200,Cleaner 102 200L,10.53
+CUST105,Fairfield Engineering,Fairfield Engineering - CUST105,Brooke,SEA101L20,Sealer 101 20L,23.53
+CUST106,Granite Fabrication,Granite Fabrication - CUST106,Chris,CLN101L1000,Cleaner 101 1000L IBC,15.61
+CUST106,Granite Fabrication,Granite Fabrication - CUST106,Chris,DEG101L1000,Degreaser 101 1000L IBC,22.26
+CUST106,Granite Fabrication,Granite Fabrication - CUST106,Chris,STR101L20,Paint Stripper 101 20L,9.9
+CUST106,Granite Fabrication,Granite Fabrication - CUST106,Chris,DEG102L200,Degreaser 102 200L,18.3
+CUST106,Granite Fabrication,Granite Fabrication - CUST106,Chris,NEU101L20,Neutraliser 101 20L,16.08
+CUST106,Granite Fabrication,Granite Fabrication - CUST106,Chris,INH102L1000,Inhibitor 102 1000L IBC,15.76
+CUST107,Harbour Electroplating,Harbour Electroplating - CUST107,Dana,CLN102L1000,Cleaner 102 1000L IBC,18.33
+CUST107,Harbour Electroplating,Harbour Electroplating - CUST107,Dana,DEG102L200,Degreaser 102 200L,4.43
+CUST107,Harbour Electroplating,Harbour Electroplating - CUST107,Dana,NEU102L1000,Neutraliser 102 1000L IBC,19.09
+CUST107,Harbour Electroplating,Harbour Electroplating - CUST107,Dana,DEG102L1000,Degreaser 102 1000L IBC,9.81
+CUST107,Harbour Electroplating,Harbour Electroplating - CUST107,Dana,ETC102L1000,Etchant 102 1000L IBC,15.71
+CUST107,Harbour Electroplating,Harbour Electroplating - CUST107,Dana,INH101L20,Inhibitor 101 20L,17.99
+CUST108,Ironbark Industries,Ironbark Industries - CUST108,Alex,CLN102L200,Cleaner 102 200L,3.5
+CUST108,Ironbark Industries,Ironbark Industries - CUST108,Alex,SEA101L20,Sealer 101 20L,13.16
+CUST108,Ironbark Industries,Ironbark Industries - CUST108,Alex,STR102L20,Paint Stripper 102 20L,6.7
+CUST108,Ironbark Industries,Ironbark Industries - CUST108,Alex,CLN101L20,Cleaner 101 20L,5.58
+CUST108,Ironbark Industries,Ironbark Industries - CUST108,Alex,STR101L20,Paint Stripper 101 20L,4.3
+CUST108,Ironbark Industries,Ironbark Industries - CUST108,Alex,SEA102L200,Sealer 102 200L,19.9
+CUST109,Jetty Marine Coatings,Jetty Marine Coatings - CUST109,Brooke,PAS101L1000,Passivator 101 1000L IBC,4.77
+CUST109,Jetty Marine Coatings,Jetty Marine Coatings - CUST109,Brooke,STR102L1000,Paint Stripper 102 1000L IBC,12.88
+CUST109,Jetty Marine Coatings,Jetty Marine Coatings - CUST109,Brooke,ETC102L20,Etchant 102 20L,15.09
+CUST109,Jetty Marine Coatings,Jetty Marine Coatings - CUST109,Brooke,CLN101L200,Cleaner 101 200L,22.43
+CUST109,Jetty Marine Coatings,Jetty Marine Coatings - CUST109,Brooke,LUB101L1000,Drawing Lubricant 101 1000L IBC,21.02
+CUST109,Jetty Marine Coatings,Jetty Marine Coatings - CUST109,Brooke,INH101L200,Inhibitor 101 200L,22.01
+CUST110,Kestrel Surface Tech,Kestrel Surface Tech - CUST110,Alex,ETC102L1000,Etchant 102 1000L IBC,24.07
+CUST110,Kestrel Surface Tech,Kestrel Surface Tech - CUST110,Alex,STR102L20,Paint Stripper 102 20L,6.32
+CUST110,Kestrel Surface Tech,Kestrel Surface Tech - CUST110,Alex,CLN101L1000,Cleaner 101 1000L IBC,6.88
+CUST110,Kestrel Surface Tech,Kestrel Surface Tech - CUST110,Alex,SEA102L200,Sealer 102 200L,8.1
+CUST110,Kestrel Surface Tech,Kestrel Surface Tech - CUST110,Alex,STR101L200,Paint Stripper 101 200L,8.13
+CUST110,Kestrel Surface Tech,Kestrel Surface Tech - CUST110,Alex,CLN101L20,Cleaner 101 20L,13.67
+CUST111,Lakeside Powder Coat,Lakeside Powder Coat - CUST111,Brooke,BRT101L200,Brightener 101 200L,12.22
+CUST111,Lakeside Powder Coat,Lakeside Powder Coat - CUST111,Brooke,PAS102L1000,Passivator 102 1000L IBC,11.12
+CUST111,Lakeside Powder Coat,Lakeside Powder Coat - CUST111,Brooke,ETC102L200,Etchant 102 200L,15.46
+CUST111,Lakeside Powder Coat,Lakeside Powder Coat - CUST111,Brooke,SEA101L20,Sealer 101 20L,23.97
+CUST111,Lakeside Powder Coat,Lakeside Powder Coat - CUST111,Brooke,DEG101L20,Degreaser 101 20L,18.19
+CUST111,Lakeside Powder Coat,Lakeside Powder Coat - CUST111,Brooke,PAS102L20,Passivator 102 20L,14.34
