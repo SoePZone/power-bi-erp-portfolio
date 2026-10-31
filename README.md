@@ -1,42 +1,68 @@
-# 3. Live product costing
+# Power BI + ERP Reporting Portfolio
 
-**Problem:** the ERP stores a product's cost only when someone runs a costing. Many products had not been
-costed for years, so margins on price lists were based on stale numbers.
+Self-taught Power BI and SQL work built while working in production purchasing at a chemical
+manufacturer. Every report replaced a manual Excel process with a live, automatically refreshed report
+that reads directly from the ERP (Sage Evolution on SQL Server) or from shared Excel files.
 
-**Solution:** recalculate every manufactured product's cost from its recipe (bill of materials) using
-**today's** average cost of each raw material, on every refresh.
+> **All data in this repository is fictional.** Company names, customers, suppliers, products, prices,
+> server names and credentials have been removed or replaced. The SQL, DAX and Power Query logic is
+> the real logic, shown with generic names.
+
+## Skills shown
+
+| Area | What I used |
+| --- | --- |
+| SQL Server (T-SQL) | Joins across ERP views, rolling date windows, aggregation, discovery with `INFORMATION_SCHEMA`, validating totals against existing reports |
+| Power BI | Import models, row-level security, slicers with search, conditional formatting, publishing and sharing |
+| DAX | Measures (`SUMX`, `DIVIDE`, `SELECTEDVALUE`, `ALL`), calculated columns (`SWITCH`, `DATEDIFF`) |
+| Power Query (M) | Cleaning Excel sources, custom columns, removing sensitive columns before load |
+| Data platform | On-premises data gateway, scheduled refresh, read-only SQL login, OneDrive/SharePoint sources |
+| Ways of working | Reverse-engineering existing reports, proving numbers match before going live, documenting everything |
+
+## Architecture
+
+```mermaid
+flowchart LR
+    ERP[(ERP database<br/>SQL Server)] -->|read-only login| GW[On-premises<br/>data gateway]
+    GW --> S1[Stock Movement]
+    GW --> S2[Live Product Costing]
+    GW --> S3[Sales Dashboard]
+    XL[(Excel files<br/>OneDrive)] -->|OAuth, no gateway| P1[Customer Price List<br/>with RLS]
+    XL --> P2[Reseller / Wholesale<br/>Price Lists]
+    XL --> P3[Shipping Tracker]
+```
+
+## Projects
+
+| # | Project | What it does | Key techniques |
+| --- | --- | --- | --- |
+| 1 | [Customer price list with row-level security](01-rls-price-list) | Each sales rep sees only their own customers' special prices; managers see everything | RLS roles, sharing rules, OneDrive refresh |
+| 2 | [Stock movement and reorder report](02-stock-movement) | Rolling 6-month sales, stock cover in months and suggested order quantity, straight from the ERP | T-SQL, rolling dates, gateway, `SUMX` totals |
+| 3 | [Live product costing](03-live-product-costing) | Recalculates the cost of hundreds of manufactured products from their recipes using today's raw material costs | BOM roll-up in SQL, validation against ERP screens |
+| 4 | [Sales reporting from the ERP](04-sales-from-erp) | Rebuilt a monthly Excel sales report as a direct SQL source | Extracting report SQL, 5-part `UNION ALL`, reconciliation |
+| 5 | [Price lists for the sales team](05-price-lists) | Reseller and wholesale price lists with cost and margin removed before they reach Power BI | Power Query clean-up, column-level safety |
+| 6 | [Shipping / ETA tracker](06-shipping-tracker) | Cleaned an inbound shipping spreadsheet and turned it into a status board | Data cleaning, `SWITCH` flags, date handling |
+
+See also: [Setup guide](docs/setup-guide.md) (SQL login, gateway, RLS, refresh) and [Lessons learned](LESSONS_LEARNED.md).
+
+## Results
+
+- Replaced several manual Excel exports with reports that refresh on a schedule.
+- Live product cost matched the ERP's own costing screen exactly on test products to the cent on test products.
+- Sales totals from SQL matched the existing Excel report for every financial year tested.
+- Found that many saved costs in the ERP were years out of date - the live costing report makes this visible.
+
+## Repository layout
 
 ```
-Product cost = SUM over recipe lines of ( quantity per unit x current average cost of the component )
+01-rls-price-list/        RLS rules, sample data, write-up
+02-stock-movement/        SQL, DAX, sample data
+03-live-product-costing/  SQL (discovery + final), DAX, sample data
+04-sales-from-erp/        approach and reconciliation (simplified SQL)
+05-price-lists/           Power Query (M), sample data
+06-shipping-tracker/      DAX flag logic, sample data, before/after cleaning
+docs/setup-guide.md       step-by-step setup guide
 ```
 
-## How I found the logic (step by step in SSMS)
-
-1. Listed every table/view with `BOM` in its name using `INFORMATION_SCHEMA.TABLES`.
-2. Looked at sample rows of the BOM report view to understand quantity and cost columns.
-3. Picked one product with a known cost on the ERP's own costing screen.
-4. Compared each recipe line with the stored costs in the stock-cost table until every line matched.
-5. Result: quantity x **average cost** in the line's default warehouse (warehouse 0 for non-stock cost
-   items such as freight and labour) reproduces the ERP screen exactly (to the cent).
-
-Discovery queries: [`sql/discovery.sql`](sql/discovery.sql) - final query: [`sql/bom_live_cost.sql`](sql/bom_live_cost.sql).
-
-## Checks
-
-- Row count with joins = row count of the BOM view (checked with the query in `discovery.sql`), so no line is double-counted.
-- Products costed recently in the ERP match the live cost; products last costed years ago do not -
-  which is exactly the gap the report is meant to show.
-
-## Three costs, side by side
-
-| Cost | Meaning | Up to date? |
-| --- | --- | --- |
-| Live cost | qty x today's average cost | Every refresh |
-| Stored line cost | cost saved on each recipe line | Often old or zero |
-| Last costing | cost from the last costing run, with its date | Only as of that date |
-
-## Next step
-
-Add list prices and a what-if GP% slider: `Suggested price = Live cost / (1 - target GP%)`.
-
-Sample data: [`sample_data/bom_lines.csv`](sample_data/bom_lines.csv) - DAX: [`dax/measures.dax`](dax/measures.dax)
+The `.pbix` files are not included because they contain company data. The sample CSVs can be loaded
+into Power BI Desktop to rebuild each report with the SQL/DAX shown.
